@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+// import { KatiaComponent } from './katia/katia.component';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Tic-Tac-Toe';
+  
+
 }
